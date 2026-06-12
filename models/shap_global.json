@@ -1,0 +1,18 @@
+{
+  "credit_score": 0.37592777609825134,
+  "tenure_months": 0.14156082272529602,
+  "num_products": 0.07531677186489105,
+  "has_working_capital_loan": 0.012015102431178093,
+  "has_pos_machine": 0.049292366951704025,
+  "txn_velocity_drop_pct": 0.13422827422618866,
+  "avg_ticket_size_90d": 0.15234771370887756,
+  "ticket_size_variance_pct": 0.9772899150848389,
+  "balance_drop_pct": 2.3654983043670654,
+  "wc_utilization_pct": 0.24644158780574799,
+  "pos_txn_monthly": 0.35928961634635925,
+  "complaints_12m": 0.6515132784843445,
+  "days_since_last_txn": 3.4941678047180176,
+  "satisfaction_score": 0.0754401832818985,
+  "cashback_utilization": 1.0078116655349731,
+  "sector_encoded": 0.060979414731264114
+}
