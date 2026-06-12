@@ -198,6 +198,22 @@ This solution helps banks:
 
 ---
 
+## Dashboard Preview
+
+## Portfolio
+
+<img width="1330" height="556" alt="image" src="https://github.com/user-attachments/assets/e6b6ea33-08a5-4e3e-86e9-660ff6b364fa" />
+
+## Watchlist
+
+<img width="1358" height="598" alt="image" src="https://github.com/user-attachments/assets/8fd7858b-5d72-4f67-af06-114d43ebac5a" />
+
+## Prediction
+
+<img width="1358" height="598" alt="image" src="https://github.com/user-attachments/assets/40efcd11-7ce0-4e19-8b22-3742a418bc31" />
+
+
+
 ## Author
 
 **Kaviya L**
